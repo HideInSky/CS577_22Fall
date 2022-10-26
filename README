@@ -1,0 +1,26 @@
+COMPSCI577: Introduction to Algorithms (001) FA22
+Instructor:
+Dr. Marc Renault
+
+Assignments (15%)
+There will one assignment per week, starting in week 1, released on Thursday, for a total of 13 assignments
+(no assignment due during Thanksgiving, or released on the last week). Each assignment will carry the
+same weight, and will be due Thursday at 11:59 pm of the next week. The assignments will be graded
+based on participation rather than correctness. Submitting a blank document will not be sufficient to gain
+participation points. Rather, each question in the assignment will be graded for participation, giving an
+overall participation score for the assignment.
+
+In order to get participation points, you must submit an answer that demonstrates to the grader that
+you made a reasonable attempt to answer the question. Most questions will involve designing algorithms,
+working through algorithms and writing proofs. Be sure to show your work. If you are unsure how to
+answer a question, explain what you understand about the question, what approach you believe needs to be
+taken for the question, and where you are stuck. This will also earn participation credit for those questions.
+For each assignment, each question or enumerated subquestion with a reasonable attempt to answer will
+be given a participation grade of 1. No reasonable attempt to answer will be given a participation grade
+of 0. The 80% rule will apply, see below.
+
+Built-in flexibility: 80% rule
+For the scores where the 80% rule applies, if your calculated score is 80% or higher, you will be credited
+the full points. If it is y% for y < 80, you will be credited y
+100 ·x points, where y is your calculated score
+and x is the total points. I.e., a discussion participation score of 79% would result in 3.95 out of 5 points.
